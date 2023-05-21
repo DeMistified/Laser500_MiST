@@ -19,4 +19,9 @@ PLLJ_PLLSPE_INFO.txt
 laser500.rbf
 greybox_tmp/
 *.ddb
-
+output_files/
+*.asm
+*.o
+*.ppf
+*.map
+*.bin

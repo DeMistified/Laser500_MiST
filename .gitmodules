@@ -1,0 +1,3 @@
+[submodule "DeMiSTify"]
+	path = DeMiSTify
+	url = git@github.com:robinsonb5/DeMiSTify.git
